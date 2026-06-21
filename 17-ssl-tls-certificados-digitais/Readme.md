@@ -1,0 +1,1 @@
+Explique a diferença entre SSL e TLS, destacando os mecanismos de segurança utilizados por cada protocolo, o papel do handshake e dos certificados digitais.
